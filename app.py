@@ -27,7 +27,7 @@ oauth.register(
     client_secret="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",  # ჩასვი შენი Client Secret
     authorize_url="https://accounts.google.com/o/oauth2/auth",
     authorize_params=None,
-    redirect_uri="http://127.0.0.1:5000/login/google/callback",
+    redirect_uri="https://googlevaleri.onrender.com/google/callback",
     access_token_url="https://oauth2.googleapis.com/token",
     access_token_params=None,
     refresh_token_url=None,
